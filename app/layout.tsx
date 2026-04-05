@@ -10,10 +10,10 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Mustafa Osama | MERN Stack Developer',
+  title: 'Omar Ezzat | MERN Stack Developer',
   description: 'Full-stack developer specializing in the MERN stack. Building responsive frontend interfaces and scalable backend APIs with clean, maintainable code.',
   keywords: ['MERN Stack', 'Full-Stack Developer', 'React', 'Node.js', 'MongoDB', 'Express.js'],
-  authors: [{ name: 'Mustafa Osama' }],
+  authors: [{ name: 'Omar Ezzat' }],
   icons: {
     icon: [
       {
